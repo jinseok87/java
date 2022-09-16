@@ -1,0 +1,14 @@
+package sec01;
+
+public class Tyoe2 {
+
+	public static void main(String[] args) {
+		//
+		int[] arr1 = {10,20,30}	;
+		int[] arr2 = {10,20,30}	;
+		int[] arr3 = null;
+//		int a = null; - primitive type(기본타입)은 null값일 수 없다.
+		
+	}
+
+}

@@ -1,0 +1,30 @@
+package sec2;
+
+import java.util.Scanner;
+
+public class Condition2 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("성명 :");
+		String name = sc.next();
+		System.out.print("점수 :"	);
+		int jum = sc.nextInt();
+		String pan ="";
+		if(90>=jum){
+			pan= "A";
+		}else if(90>=jum){
+			pan ="B";
+		}else if(80>=jum){
+			pan="C";
+		}else if(70>=jum){
+			pan="D";
+		}else if(60>=jum){
+			pan ="재평가";
+		}
+		System.out.println("이름 : "+name+"점수 :"+jum+"등급 :"+pan);
+		sc.close();
+		
+	}
+
+}

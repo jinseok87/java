@@ -1,0 +1,19 @@
+	본인 pc 파일경로
+  d: \kim6\study1\guide.txt
+
+	인터넷 망에서
+  1**.1**.2**.**/d/kim6/study1/guid.txt
+
+	지역네트워크(LAN)에서
+            \\192.168.200.86\d\kim6\study1/guide.txt
+(컴퓨터경로엔 \두개)
+
+  http://namu.wiki/w/아이브
+  https://www.seoul.go.kr/freeboard/freeboard.do#view/370053
+
+ 도메인 네임 : www.soul.go.kr
+
+ URL(URI) -  https://www.seoul.go.kr/freeboard/freeboard.do
+
+  
+INfobyip.com    <도메인 ip주소알수있는 사이트

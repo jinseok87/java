@@ -1,0 +1,11 @@
+package sec01;
+
+public class Tyoe2 {
+
+	public static void main(String[] args) {
+		int[] arr1 = {10,20,30}	;
+		int[] arr2 = {10,20,30}	;
+		
+	}
+
+}

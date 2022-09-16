@@ -1,0 +1,13 @@
+package sec02;
+
+import java.util.Calendar;
+
+public class Ref2 {
+
+	public static void main(String[] args) {
+		Week today = null; 
+		
+		Calendar cal = Calendar.getInstance();
+	}
+
+}
