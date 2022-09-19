@@ -5,3 +5,4 @@ ENABLED_DECORATORS=org.eclipse.jst.ws.jaxws.dom.integration.navigator.WebService
 PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
 eclipse.preferences.version=1
 org.eclipse.jdt.ui.editors.textfont=1|Courier New|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|49|Courier New;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+/"/>\r\n<keyBinding commandId\="org.eclipse.ui.edit.text.hippieCompletion" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+/ SHIFT+SPACE"/>\r\n</org.eclipse.ui.commands>
